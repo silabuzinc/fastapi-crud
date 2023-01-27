@@ -1,1 +1,5 @@
-# fastapi-crud
+# FastAPI CRUD
+
+* Crear entorno virtual
+
+* Instalar dependencias
